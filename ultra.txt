@@ -1,1 +1,1 @@
-{'ver1':'21', 'ver2':'00', 'ver3':'\n•Test.\n' , 'dli':'https://dalilalmubtada.blogspot.com/2019/09/gbwhatsapp-v85.html'}
+{'ver1':'22', 'ver2':'00', 'ver3':'\n•Test.\n' , 'dli':'https://dalilalmubtada.blogspot.com/2019/09/gbwhatsapp-v85.html'}
