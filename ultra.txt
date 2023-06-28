@@ -1,4 +1,4 @@
-{'ver1':'22', 'ver2':'00', 'ver3':'
+{'ver1':'23', 'ver2':'00', 'ver3':'
 \n• Update the WhatsApp base to 2.23.9.75.
 \n•Improve the DH Ultra All Features.
 \n• [Exclusively] Make a backup/restore all WhatsApp files (photos, Video, etc…). Drive.
@@ -7,4 +7,4 @@
  \n• Improve the improvement of some styles so that they work with the new version.
 \n• More enjoy and discover what's new for yourself!\n• More fixes and other improvements.
 \n• [Fix] all bugs, stability and performance improvements of the app.\n
-','dli':'https://dhwhatsappultra.blogspot.com/2023/06/dhmods-dhwhatsapp-ultra-best-whatsapp.html''}
+','dli':'https://dhwhatsappultra.blogspot.com/2023/06/dhmods-dhwhatsapp-ultra-best-whatsapp.html'}
