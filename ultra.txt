@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'75', 'ver3':'\n•Enabled All New Features  2.23.9.75.\n•Fixed Expiration Date When Registering A New Number problem.\n•Fixed Some More Features Not Working Problem.\n' , 'dli':'https://youtu.be/HE8rHAeemJM'}
+{'ver1':'9', 'ver2':'76', 'ver3':'\n•Enabled All New Features  2.23.9.75.\n•Fixed Expiration Date When Registering A New Number problem.\n•Fixed Some More Features Not Working Problem.\n' , 'dli':'https://youtu.be/P1_ZMqfg1ok'}
