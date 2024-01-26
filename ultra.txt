@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'99', 'ver3':'\n•Base Updated 2.23.21.88.\n•Enabled New Fractures.\n•Re Added Some Removed Features have been Added back.\n•General Bug fixed.\n•Improved DHUltra More Features System.\n' , 'dli':'https://youtu.be/PuyjNJym5yc?si=SScLBDIKj1CfSo9J'}
+{'ver1':'9', 'ver2':'99', 'ver3':'\n•Base Updated 2.23.21.88.\n•Enabled New Fractures.\n•Fixed Not Showing Text Bold , ilatic , monospace Styles.\n•General Bug fixed.\n•Improved DHUltra More Features System.\n' , 'dli':'https://youtu.be/PuyjNJym5yc?si=SScLBDIKj1CfSo9J'}
