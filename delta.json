@@ -1,0 +1,10 @@
+{
+  "records": [
+    {
+      "version": "DHULTRA Test Update",
+      "code": 100,
+      "url": "https://spmods.download",
+      "changelog": " - Saving Category in Bulk Message - Fix Bugs"
+    }
+  ]
+}
