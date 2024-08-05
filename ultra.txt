@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'99', 'ver3':'\n•Base Updated 2.23.21.88.\n•Enabled New Features.\n•Fixed Not Showing Text Bold , ilatic , monospace Styles.\n•General Bug fixed.\n•Improved DHUltra More Features System.\n' , 'dli':'https://youtu.be/PuyjNJym5yc?si=SScLBDIKj1CfSo9J'}
+{'ver1':'12', 'ver2':'1', 'ver3':'\n•Base 2.24.11.79.\n•Enabled New Features.\n•[New] Fix Link A Device.\n•[New] Added a New Immune & Extra Features (DHWA Settings > Ultra Features).\n•Stability and performance improvements.\n' , 'dli':'https://youtu.be/pMAPcEyrnPo?si=Bm6x2WhDwIy90AA4'}
