@@ -1,1 +1,1 @@
-{'ver1':'12', 'ver2':'1', 'ver3':'\n•Base 2.24.11.79.\n•Enabled New Features.\n•[New] Fix Link A Device.\n•[New] Added a New Immune & Extra Features (DHWA Settings > Ultra Features).\n•Stability and performance improvements.\n' , 'dli':'https://youtu.be/pMAPcEyrnPo?si=Bm6x2WhDwIy90AA4'}
+{'ver1':'13', 'ver2':'1', 'ver3':'\n•Base 2.24.11.79.\n•Enabled New Features.\n•[New] Fix Link A Device.\n• [Improvement] 100%  Fix Unofficial Login Problem.\n•Extend Expiration date.\n' , 'dli':'https://youtu.be/1t1K3ch1_lw?si=nqrDwzm19HH8jiL4'}
