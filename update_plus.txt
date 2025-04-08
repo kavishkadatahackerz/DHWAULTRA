@@ -1,0 +1,2 @@
+versionName=1.0
+webpageUrl=https://t.me/SPModsSandun
