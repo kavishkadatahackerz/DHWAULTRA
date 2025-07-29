@@ -1,0 +1,1 @@
+{'ver1':'1', 'ver2':'0', 'ver3':'\n• [new update].\n• It contains many great new features.\n• More important fixes and improvements.\n' , 'dli':'https://www.spmods.download'}
