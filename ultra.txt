@@ -1,4 +1,5 @@
-{'ver1':'50', 'ver2':'1', 'ver3':'\n•Base 2.25.36.73.\n•Enabled New Features.\n•[New] Fix Link A Device.\n• [Improvement] 100%  Fix Unofficial Login Problem.\n•Extend Expiration date.\n' , 'dli':'https://youtu.be/fWaD8-PqZTM?si=muq0An5Lfg1yL4nA'}
+{'ver1':'51', 'ver2':'1', 'ver3':'\n•Base 2.25.36.73.\n•Enabled New Features.\n•[New] Fix Link A Device.\n• [Improvement] 100%  Fix Unofficial Login Problem.\n•Extend Expiration date.\n' , 'dli':'https://youtu.be/IjuHY_fNcY8?si=a3a1_wC_XyfRbRvO'}
+
 
 
 
