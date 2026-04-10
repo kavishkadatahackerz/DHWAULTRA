@@ -1,4 +1,4 @@
-{'ver1':'54', 'ver2':'1', 'ver3':'\n•Base 2.26.7.74.\n•Enabled New Features.\n•[New] Fix Link A Device.\n• [Improvement] 100%  Fix Unofficial Login Problem.\n•Extend Expiration date.\n' , 'dli':'https://youtu.be/MMpdbKUP3U8?si=7LU2TxRgnFgsHiRq'}
+{'ver1':'55', 'ver2':'1', 'ver3':'\n•We’ve listened to your feedback and worked on improving the details that matter most to deliver better performance and smoother usability 💙.\n•📥 Don’t miss out… update now and enjoy all the new improvements!.\n' , 'dli':'https://youtu.be/w7X-qOfQIWE?si=qkJG11YB_UGuGOfz'}
 
 
 
