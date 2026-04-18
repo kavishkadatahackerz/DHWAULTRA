@@ -1,4 +1,4 @@
-{'ver1':'55', 'ver2':'1', 'ver3':'\n•We’ve listened to your feedback and worked on improving the details that matter most to deliver better performance and smoother usability 💙.\n•📥 Don’t miss out… update now and enjoy all the new improvements!.\n' , 'dli':'https://youtu.be/w7X-qOfQIWE?si=qkJG11YB_UGuGOfz'}
+{'ver1':'56', 'ver2':'1', 'ver3':'\n•We’ve listened to your feedback and worked on improving the details that matter most to deliver better performance and smoother usability 💙.\n•📥 Don’t miss out… update now and enjoy all the new improvements!.\n' , 'dli':'https://youtu.be/ipXw0120JeY?si=hNxGb-NLeSiZtv9I'}
 
 
 
