@@ -1,4 +1,4 @@
-{'ver1':'55', 'ver2':'1', 'ver3':'\n•We’ve listened to your feedback and worked on improving the details that matter most to deliver better performance and smoother usability 💙.\n•📥 Don’t miss out… update now and enjoy all the new improvements!.\n' , 'dli':'https://youtu.be/ipXw0120JeY?si=hNxGb-NLeSiZtv9I'}
+{'ver1':'57', 'ver2':'1', 'ver3':'\n•🔗 Fixed Link Device Problem (100% Working).\n•🎨 Premium UI Redesign (Smooth & Stylish).\n•🛠️ Bug Fixes & Stability Improvements.\n•📥 Don’t miss out… update now and enjoy all the new improvements!.\n' , 'dli':'https://youtu.be/ipXw0120JeY?si=hNxGb-NLeSiZtv9I'}
 
 
 
