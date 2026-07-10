@@ -1,4 +1,4 @@
-{'ver1':'61', 'ver2':'1', 'ver3':'\n•🔗 Fixed Link Device Problem (100% Working).\n•🎨 Premium UI Redesign (Smooth & Stylish).\n•🛠️ Bug Fixes & Stability Improvements.\n•📥 Don’t miss out… update now and enjoy all the new improvements!.\n' , 'dli':'https://youtu.be/F1QB5x1t1uE?si=ARybq94wiAXb9U-Q'}
+{'ver1':'63', 'ver2':'1', 'ver3':'\n•🔗 Fixed Link Device Problem (100% Working).\n•🎨 Premium UI Redesign (Smooth & Stylish).\n•🛠️ Bug Fixes & Stability Improvements.\n•📥 Don’t miss out… update now and enjoy all the new improvements!.\n' , 'dli':'https://youtu.be/Zt83TXkyjHo?si=AyUekg0Ch2Nx85-f'}
 
 
 
